@@ -6,6 +6,7 @@ Repositorio con ejercicios prácticos de bases de datos relacionales.
 - SQL Server
 - Oracle
 - PostgreSQL
+- MySQL
 
 Cada carpeta contiene ejercicios independientes con scripts de:
 - Creación de tablas
